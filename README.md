@@ -23,7 +23,7 @@ Frontend: Minimal frontend for user interaction.
 AWS: For creating remote machine(instance). //you can use your own
 
 # Setup Instructions
-Clone the Repository: https://github.com/Shivendu-kr/
+Clone the Repository: https://github.com/Shivendu-kr/Remote_Process_management_system.git
 
 # File Architecture
 computer-process-management/
