@@ -45,7 +45,7 @@ computer-process-management/
 
 
 # Install Dependencies:
-cd Computer-process-management
+cd To main file
 npm init -y
 npm i express child_process mongoose ssh2 mongodb
 
